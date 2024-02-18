@@ -38,5 +38,5 @@ if answer.lower() == "power supply":
 else:
     print("Wrong answer. Sorry try again! ☹️")
 
-print(f"Thanks for playing this quiz game! your score is {score}")
+print(f"Thanks for playing this quiz game! Your score is {score}")
 print(f"You got {(score / 4) * 100}%")
